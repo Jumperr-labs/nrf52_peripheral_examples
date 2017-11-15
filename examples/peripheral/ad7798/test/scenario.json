@@ -1,0 +1,11 @@
+{
+    "DataGenerators": [
+        {
+            "id": 1,
+            "type": "File",
+            "config": {
+                "path": "ad7798_test_data"
+            }
+        }
+    ]
+}

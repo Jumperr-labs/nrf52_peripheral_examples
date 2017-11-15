@@ -1,0 +1,11 @@
+{
+    "DataGenerators": [
+        {
+            "id": 1,
+            "type": "File",
+            "config": {
+                "path": "m24c04_test_data"
+            }
+        }
+    ]
+}
